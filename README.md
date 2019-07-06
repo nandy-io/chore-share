@@ -1,2 +1,2 @@
-# chore-share-daemon
-Chore Share Daemon
+# chore-share
+Chore Share
